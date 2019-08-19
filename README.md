@@ -18,3 +18,7 @@ Step 6: Select the neuron that has the minimum distance to the point. This neuro
 Step 7: Update the weights of the winning node to move it closer to the point.
 
 Step 8: Using a Gaussian neighborhood function of mean the winning node, also update the weights of the winning node neighbors to move them closer to the point. The neighborhood radius is the sigma in the Gaussian function.
+
+
+# Mega Case Study
+This looks into using hybrid deep learning models to get a better sense of who may be fraudulent applicants by combining an SOM with an ANN to predict probability of users who may be fraudulent
